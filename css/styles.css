@@ -61,7 +61,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat";
+  font-family: "Montserrat-light";
   font-weight: 300;
 }
 
@@ -87,7 +87,7 @@ p {
   position: absolute;
   right: 30%;
 }
-.title-im{
+.title-img{
   position: relative;
 }
 
